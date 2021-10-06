@@ -18,5 +18,7 @@ Files used
 washington.csv
 new_york_city.csv
  chicago.csv
- 222
- 
+
+project 3
+
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
