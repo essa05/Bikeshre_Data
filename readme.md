@@ -19,6 +19,6 @@ washington.csv
 new_york_city.csv
  chicago.csv
 
- uplaod in github
- i maked 3 branches in github with .gitignore
- and share my link project
+project 3
+
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
